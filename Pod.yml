@@ -8,7 +8,7 @@ metadata:
 
 spec:
   Containers: 
-  - name: my-nginx
+  - name: my-nginx-webserver
     image: nginx:latest
     
              
